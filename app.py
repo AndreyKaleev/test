@@ -1,4 +1,4 @@
-giimport pandas as pd
+import pandas as pd
 import ssl
 import matplotlib.pyplot as plt
 
